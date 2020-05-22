@@ -841,9 +841,7 @@ save -append myData v4
 
 Get cylinder volume
  
-tic toc is used to calculate how long it took
- 
-for code to execute
+```tic toc``` is used to calculate how long it took for code to execute
 
 ```matlab 
 tic 
